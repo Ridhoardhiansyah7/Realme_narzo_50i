@@ -1,4 +1,4 @@
-# TWRP device tree for Realme RMX3231 (c11 2021)
+# TWRP device tree for Realme RMX3231/ RMX3235 (C11 2021 / Narzo 50i)
 
 ## Device specification
 
