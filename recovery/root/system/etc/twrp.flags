@@ -1,5 +1,5 @@
 # Twrp fstab file
-# For Realme RMX3235
+# Compatible For Realme RMX3235 / RMX3231
 
 # <mount_point>      <fstype>  <device>        <device2>                  <flags>
 
