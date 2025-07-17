@@ -15,9 +15,13 @@
 
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_RMX3235.mk
+    $(LOCAL_DIR)/twrp_RMX3235.mk \
+    $(LOCAL_DIR)/pbrp_RMX3235.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_RMX3235-user \
     twrp_RMX3235-userdebug \
-    twrp_RMX3235-eng
+    twrp_RMX3235-eng \
+    pbrp_RMX3235-user \
+    pbrp_RMX3235-userdebug \
+    pbrp_RMX3235-eng
